@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "communication",
+    "name": "TalkChain",
     "slug": "communication",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "communication",
+    "icon": "./assets/images/s_logo.jpeg",
+    "scheme": "TalkChain",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
